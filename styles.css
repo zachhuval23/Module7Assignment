@@ -1,0 +1,38 @@
+body {
+  background-color: #222;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: serif;
+}
+
+p {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;  
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid white;
+}
+
+tbody tr:hover{
+  background-color: orange;
+}
